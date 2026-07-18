@@ -1,0 +1,24 @@
+2026.07.18 09:45:42 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\Administrator\Desktop\MyWork\CIS406' for client Visual Studio Code 1.111.0.
+2026.07.18 09:45:42 INFO  Memory monitor started
+2026.07.18 09:45:46 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.07.18 09:45:48 INFO  no build target found for C:\Users\Administrator\Desktop\MyWork\CIS406\courseProjectPhase1\src\courseProjectPhase1\StudentRegistration.java. Using fallback presentation compiler.
+2026.07.18 09:45:48 WARN  no build tool detected in workspace 'C:\Users\Administrator\Desktop\MyWork\CIS406'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.07.18 09:45:48 WARN  Build server is not auto-connectable.
+2026.07.18 09:45:48 WARN  no build target for: C:\Users\Administrator\Desktop\MyWork\CIS406\courseProjectPhase1\src\courseProjectPhase1\StudentRegistration.java
+2026.07.18 09:46:00 INFO  no build target found for C:\Users\Administrator\Desktop\MyWork\CIS406\courseProjectPhase1\src\courseProjectPhase1\StudentRegistration.java. Using fallback presentation compiler.
+2026.07.18 09:46:01 WARN  no build target for: C:\Users\Administrator\Desktop\MyWork\CIS406\courseProjectPhase1\src\courseProjectPhase1\StudentRegistration.java
+Jul 18, 2026 9:46:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2026.07.18 09:46:01 INFO  no build target found for C:\Users\Administrator\Desktop\MyWork\CIS406\courseProjectPhase1\src\courseProjectPhase1\StudentRegistration.java. Using fallback presentation compiler.
+2026.07.18 09:46:03 INFO  no build target found for C:\Users\Administrator\Desktop\MyWork\CIS406\courseProjectPhase1\src\courseProjectPhase1\StudentRegistration.java. Using fallback presentation compiler.
+Jul 18, 2026 9:48:08 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 18, 2026 9:48:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 18, 2026 9:48:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 18, 2026 9:49:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.07.18 09:51:31 INFO  Shutting down server
+2026.07.18 09:51:31 INFO  Memory monitor stopped
+2026.07.18 09:51:31 INFO  shutting down Metals
